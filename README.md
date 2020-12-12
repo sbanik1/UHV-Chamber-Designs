@@ -33,22 +33,22 @@ All the science happens in the main chamber where sodium atoms are cooled down t
     <td align="center">
       Main Chamber
     </td>
-    <td>
+    <td align="center">
       2D Magneto Optical trap (2D MOT)
     </td>
-    <td>
+    <td  align="center">
       6 Way Cross Setup
-    </td align="center">
+    </td>
   </tr>
   <tr>
     <td>
-      <img src='MainChamberSch.png' alt="Drawing" width="400" height="200" >
+      <img src='MainChamberSch.png' alt="Drawing" width="450" height="200" >
     </td>
     <td>
-      <img src='2DMOT Design.png' alt="Drawing" width="400" height="200" >
+      <img src='2DMOT Design.png' alt="Drawing" width="450" height="200" >
     </td>
     <td>
-      <img src='6WayCrossSch.png' alt="Drawing" width="400" height="200" >
+      <img src='6WayCrossSch.png' alt="Drawing" width="450" height="200" >
     </td>
   </tr>
 </table>
