@@ -16,21 +16,24 @@ This repo contains solidwork designs of the ErNa UHV chamber. Below are images o
 <table>
   <tr>
     <td>
-      <img src='FullAsmbSnap1.png' alt="Drawing" width="400" height="200" ></td>
-    <td><img src='FullAssemblySch.png' alt="Drawing" width="400" height="200" ></td>
+      <img src='FullAsmbSnap1.png' alt="Drawing" width="400" height="300" ></td>
+    <td><img src='FullAssemblySch.png' alt="Drawing" width="400" height="300" ></td>
   </tr>
 </table>
 
 ### Overview of the different parts
 All the science happens in the main chamber where sodium atoms are cooled down to a BEC. The sodium vapour is generated in the 2D MOT chamber where it is pre-cooled before being sent over to the main chamber. The pumping elements for the main chamber are attached to the 6 way cross connected to the main chamber. The main chamber and the 2D MOT are maintained at different pressures. The 2D MOT chamber has the atomic source which needs to heated to high temperatures. As a result, it is not possible to maintain UHV pressures in this chamber. So the 2D MOT chmaber and Main chamber are separated by a differential pumping tube. Below is the schematic of the differential pumping tube used.
-<table><tr><td><img src='DiffPumpTube.png' alt="Drawing" width="400" height="200" ></td></tr></table>
+
+<table>
+  <tr><td align="center"><img src='DiffPumpTube.png' alt="Drawing" width="400" height="300" ></td></tr>
+</table>
 
 <table>
   <tr>
     <td align="center">
       Main Chamber
     </td>
-    <td align="center">
+    <td>
       2D Magneto Optical trap (2D MOT)
     </td>
     <td>
@@ -62,10 +65,10 @@ All the science happens in the main chamber where sodium atoms are cooled down t
   </tr>
   <tr>
     <td>
-      <img src='ZeemanSlower.png' alt="Drawing" width="400" height="200" >
+      <img src='ZeemanSlower.png' alt="Drawing" width="400" height="250" >
     </td>
     <td>
-      <img src='FullAssemblySch.png' alt="Drawing" width="400" height="200" >
+      <img src='FullAssemblySch.png' alt="Drawing" width="400" height="250" >
     </td>
   </tr>
 </table>
