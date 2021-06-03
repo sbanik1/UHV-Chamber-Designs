@@ -16,8 +16,8 @@ This repo contains solidwork designs of the ErNa UHV chamber. Below are images o
 <table>
   <tr>
     <td>
-      <img src='FullAsmbSnap1.png' alt="Drawing" width="400" height="300" ></td>
-    <td><img src='FullAssemblySch.png' alt="Drawing" width="400" height="300" ></td>
+      <img src='FullAsmbSnap1.png' alt="Drawing" width="450" height="300" ></td>
+    <td><img src='FullAssemblySch.png' alt="Drawing" width="450" height="300" ></td>
   </tr>
 </table>
 
